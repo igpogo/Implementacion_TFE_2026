@@ -1,0 +1,13 @@
+# Pruebas y cobertura de código
+coverage>=7.0.0
+pytest>=8.0.0
+
+# Seguridad y cifrado simétrico
+cryptography>=42.0.0
+
+# Benchmarking y análisis de rendimiento
+psutil>=5.9.0
+pandas>=2.0.0
+
+# Procesamiento de hojas de cálculo
+openpyxl>=3.1.0
